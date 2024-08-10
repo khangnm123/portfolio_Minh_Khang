@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_Minh_Khang/static/css/main.f73f59ac.css",
+    "main.js": "/portfolio_Minh_Khang/static/js/main.67a12209.js",
+    "static/js/787.d4aba7ab.chunk.js": "/portfolio_Minh_Khang/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/portfolio_Minh_Khang/index.html",
+    "main.f73f59ac.css.map": "/portfolio_Minh_Khang/static/css/main.f73f59ac.css.map",
+    "main.67a12209.js.map": "/portfolio_Minh_Khang/static/js/main.67a12209.js.map",
+    "787.d4aba7ab.chunk.js.map": "/portfolio_Minh_Khang/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73f59ac.css",
+    "static/js/main.67a12209.js"
+  ]
+}
